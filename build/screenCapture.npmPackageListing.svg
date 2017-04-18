@@ -1,21 +1,21 @@
 <svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="286" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 14:15:15 +0000    48871 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 14:15:15 +0000     8681 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 14:15:15 +0000     1917 bytes  endpoints/downloads.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 14:15:15 +0000     5851 bytes  endpoints/packages.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 14:15:15 +0000     4822 bytes  endpoints/users.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 14:15:15 +0000     3498 bytes  index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 14:15:15 +0000      133 bytes  normalize/index.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 14:15:15 +0000     6631 bytes  normalize/packages.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 14:15:15 +0000     3376 bytes  normalize/to.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 14:15:15 +0000     2059 bytes  normalize/users.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 14:15:15 +0000     2612 bytes  package.json</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 14:15:15 +0000     1611 bytes  semver.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 14:15:15 +0000     2223 bytes  test/downloads.test.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 14:15:15 +0000       25 bytes  test/mocha.opts</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 14:15:15 +0000     1500 bytes  test/npm-registry.test.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 14:15:15 +0000     3932 bytes  test/packages.test.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 14:16:21 +0000    48871 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 14:16:21 +0000     8681 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 14:16:21 +0000     1917 bytes  endpoints/downloads.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 14:16:21 +0000     5851 bytes  endpoints/packages.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 14:16:21 +0000     4822 bytes  endpoints/users.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 14:16:21 +0000     3498 bytes  index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 14:16:21 +0000      133 bytes  normalize/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 14:16:21 +0000     6631 bytes  normalize/packages.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 14:16:21 +0000     3376 bytes  normalize/to.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 14:16:21 +0000     2059 bytes  normalize/users.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 14:16:21 +0000     2612 bytes  package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 14:16:21 +0000     1611 bytes  semver.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 14:16:21 +0000     2223 bytes  test/downloads.test.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 14:16:21 +0000       25 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 14:16:21 +0000     1500 bytes  test/npm-registry.test.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 14:16:21 +0000     3932 bytes  test/packages.test.js</tspan>
 </text>
 </svg>
