@@ -1,6 +1,6 @@
 # npmtest-npm-registry
 
-#### test coverage for  [npm-registry (v0.1.13)](https://github.com/3rd-Eden/npmjs)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-registry.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-registry) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-registry.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-registry)
+#### basic test coverage for  [npm-registry (v0.1.13)](https://github.com/3rd-Eden/npmjs)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-registry.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-registry) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-registry.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-registry)
 
 #### An high available npm registry client
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-npm-registry/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-npm-registry/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-npm-registry/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-npm-registry/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-registry/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-registry/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-npm-registry/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-npm-registry/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-registry/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-registry/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-npm-registry/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-npm-registry/build/coverage.html/index.html)
 
@@ -97,7 +97,8 @@
     "scripts": {
         "test": "mocha $(find test -name '*.test.js')"
     },
-    "version": "0.1.13"
+    "version": "0.1.13",
+    "bin": {}
 }
 ```
 
